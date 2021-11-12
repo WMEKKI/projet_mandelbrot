@@ -1,0 +1,4 @@
+/home/wassim/Projet/Mandelbrot-SIMD-and-GPU/CMakeFiles/rebuild_cache.dir
+/home/wassim/Projet/Mandelbrot-SIMD-and-GPU/CMakeFiles/edit_cache.dir
+/home/wassim/Projet/Mandelbrot-SIMD-and-GPU/CMakeFiles/mandelbrot.dir
+/home/wassim/Projet/Mandelbrot-SIMD-and-GPU/CMakeFiles/dec-obj.dir
