@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/Color/ColorMap.hpp
+SFML/Graphics.hpp
+-
+ColorUtils.hpp
+../src/Color/ColorUtils.hpp
+array
+-
+iostream
+-
+cassert
+-
+
+../src/Color/ColorUtils.hpp
+stdio.h
+-
+stdlib.h
+-
+string
+-
+SFML/Graphics.hpp
+-
+
+../src/Convergence/Convergence.hpp
+SFML/Graphics.hpp
+-
+../Color/ColorMap.hpp
+../src/Color/ColorMap.hpp
+
+../src/kernel.cuh
+
+/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/others/CUDA/CUDA.cpp
+CUDA.hpp
+/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/others/CUDA/CUDA.hpp
+kernel.cuh
+/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/others/CUDA/kernel.cuh
+
+/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/others/CUDA/CUDA.hpp
+cuda_runtime.h
+/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/others/CUDA/cuda_runtime.h
+Convergence/Convergence.hpp
+/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/others/CUDA/Convergence/Convergence.hpp
+

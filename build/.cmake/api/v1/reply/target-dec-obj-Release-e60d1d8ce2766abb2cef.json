@@ -1,0 +1,1579 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Color/ColorGreyScale/ColorGreyScale.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Color/ColorHSV/ColorHSV.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Color/ColorHSVLoop/ColorHSVLoop.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Color/ColorHSVShifted/ColorHSVShifted.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Color/ColorLSD/ColorLSD.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Color/ColorLerp/ColorLerpBlueRed.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Color/ColorMap.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Color/ColorSetCandy/ColorSetCandy.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Color/ColorSmooth/ColorSmooth.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Color/ColorSmoothLoop/ColorSmoothLoop.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Color/ColorSmoothShifted/ColorSmoothShifted.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Color/ColorXaoS/ColorXaoS.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Color/library/ColorLibrary.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/Convergence.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/julia/DP_x86_BS/DP_x86_BS.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/julia/DP_x86_J10/DP_x86_J10.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/julia/DP_x86_J2/DP_x86_J2.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/julia/DP_x86_J3/DP_x86_J3.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/julia/DP_x86_J4/DP_x86_J4.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/julia/DP_x86_J5/DP_x86_J5.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/julia/DP_x86_J6/DP_x86_J6.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/julia/DP_x86_J7/DP_x86_J7.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/julia/DP_x86_J8/DP_x86_J8.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/julia/DP_x86_J9/DP_x86_J9.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/julia/simple/avx512/mono-julia/JU_SP_AVX512.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/julia/simple/avx512/multi-julia/JU_SP_AVX512_OMP.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/julia/simple/x86/julia-mono/JU_SP_x86.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/library/ConvergenceLibrary.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/avx2/mono/normal/DP_AVX2.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/avx2/mono/unroll_x2/DP_AVX2_u2.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/avx2/mono/unroll_x4/DP_AVX2_u4.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/avx2/multi/normal/DP_AVX2_OMP.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/avx2/multi/unroll_x2/DP_AVX2_OMP_u2.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/avx2/multi/unroll_x4/DP_AVX2_OMP_u4.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/avx512/mono/DP_AVX512.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/avx512/multi/DP_AVX512_OMP.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/neon/mono/DP_NEON.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/neon/multi/DP_NEON_OMP.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/sse4/mono/DP_SSE4.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/sse4/multi/DP_SSE4_OMP.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/x86/mono/DP_x86.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/x86/multi/DP_x86_OMP.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/fixed/x86/mono/FP_Q16_11_x86.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/fixed/x86/mono/FP_Q18_14_x86.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/fixed/x86/mono/FP_Q32_27_x86.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/quad/x86/mono/QP_x86.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/quad/x86/multi/QP_x86_OMP.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/FPGA/mono/SP_FPGA.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/avx2/mono/SP_AVX2.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/avx2/mono/SP_AVX2_u2.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/avx2/multi/SP_AVX2_OMP.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/avx2/multi/SP_AVX2_OMP_u2.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/avx512/mono/SP_AVX512.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/avx512/multi/SP_AVX512_OMP.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/neon/mono/SP_NEON.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/neon/multi/SP_NEON_OMP.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/sse4/mono/SP_SSE4.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/sse4/mono/SP_SSE4_vc.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/sse4/multi/SP_SSE4_OMP.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/sse4/multi/SP_SSE4_OMP_vc.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/x86/mono/SP_x86.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/x86/multi/SP_x86_OMP.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/others/CUDA/CUDA.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/others/DP_x86_M/DP_x86_M.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/others/DP_x86_Mme/DP_x86_Mme.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/others/DP_x86_Mr/DP_x86_Mr.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/others/DP_x86_N/DP_x86_N.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Convergence/others/DP_x86_XXX/DP_x86_XXX.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Mandelbrot.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Utils/FileHandler.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Utils/Settings.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Utils/StringUtils.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/Utils/Utils.cpp.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/kernel.cu.o"
+		},
+		{
+			"path" : "CMakeFiles/dec-obj.dir/src/main.cpp.o"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 36,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 33,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG  "
+				},
+				{
+					"fragment" : "-std=gnu++17"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 2,
+					"path" : "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				4,
+				6,
+				8,
+				10,
+				13,
+				15,
+				17,
+				19,
+				21,
+				25,
+				27,
+				29,
+				31,
+				33,
+				35,
+				37,
+				39,
+				41,
+				43,
+				45,
+				47,
+				49,
+				51,
+				53,
+				55,
+				57,
+				59,
+				61,
+				63,
+				65,
+				67,
+				69,
+				71,
+				73,
+				75,
+				77,
+				79,
+				81,
+				83,
+				85,
+				93,
+				95,
+				97,
+				100,
+				102,
+				104,
+				106,
+				108,
+				110,
+				112,
+				114,
+				116,
+				118,
+				120,
+				122,
+				124,
+				126,
+				128,
+				130,
+				132,
+				134,
+				136,
+				138,
+				140,
+				142,
+				144,
+				146,
+				148,
+				150,
+				152,
+				154,
+				158
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-O3 -DNDEBUG  "
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 2,
+					"path" : "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src"
+				}
+			],
+			"language" : "CUDA",
+			"sourceIndexes" : 
+			[
+				156
+			]
+		}
+	],
+	"id" : "dec-obj::@6890427a1f51a3e7e1df",
+	"name" : "dec-obj",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				4,
+				6,
+				8,
+				10,
+				13,
+				15,
+				17,
+				19,
+				21,
+				25,
+				27,
+				29,
+				31,
+				33,
+				35,
+				37,
+				39,
+				41,
+				43,
+				45,
+				47,
+				49,
+				51,
+				53,
+				55,
+				57,
+				59,
+				61,
+				63,
+				65,
+				67,
+				69,
+				71,
+				73,
+				75,
+				77,
+				79,
+				81,
+				83,
+				85,
+				93,
+				95,
+				97,
+				100,
+				102,
+				104,
+				106,
+				108,
+				110,
+				112,
+				114,
+				116,
+				118,
+				120,
+				122,
+				124,
+				126,
+				128,
+				130,
+				132,
+				134,
+				136,
+				138,
+				140,
+				142,
+				144,
+				146,
+				148,
+				150,
+				152,
+				154,
+				156,
+				158
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				1,
+				3,
+				5,
+				7,
+				9,
+				11,
+				14,
+				16,
+				18,
+				20,
+				22,
+				23,
+				24,
+				26,
+				28,
+				30,
+				32,
+				34,
+				36,
+				38,
+				40,
+				42,
+				44,
+				46,
+				48,
+				50,
+				52,
+				54,
+				56,
+				58,
+				60,
+				62,
+				64,
+				66,
+				68,
+				70,
+				72,
+				74,
+				76,
+				78,
+				80,
+				82,
+				84,
+				86,
+				87,
+				88,
+				90,
+				91,
+				92,
+				94,
+				96,
+				98,
+				99,
+				101,
+				103,
+				105,
+				107,
+				109,
+				111,
+				113,
+				115,
+				117,
+				119,
+				121,
+				123,
+				125,
+				127,
+				129,
+				131,
+				133,
+				135,
+				137,
+				139,
+				141,
+				143,
+				145,
+				147,
+				149,
+				151,
+				153,
+				155,
+				162,
+				163,
+				164,
+				165,
+				166,
+				167,
+				168,
+				169,
+				170,
+				171,
+				172,
+				173,
+				174,
+				175,
+				176,
+				177,
+				178,
+				179,
+				180,
+				181
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				12,
+				89,
+				157,
+				159,
+				160,
+				161
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Color/ColorGreyScale/ColorGreyScale.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Color/ColorGreyScale/ColorGreyScale.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Color/ColorHSV/ColorHSV.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Color/ColorHSV/ColorHSV.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Color/ColorHSVLoop/ColorHSVLoop.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Color/ColorHSVLoop/ColorHSVLoop.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Color/ColorHSVShifted/ColorHSVShifted.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Color/ColorHSVShifted/ColorHSVShifted.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Color/ColorLSD/ColorLSD.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Color/ColorLSD/ColorLSD.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Color/ColorLerp/ColorLerpBlueRed.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Color/ColorLerp/ColorLerpBlueRed.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Color/ColorLibrary.xxx",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Color/ColorMap.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Color/ColorMap.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Color/ColorSetCandy/ColorSetCandy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Color/ColorSetCandy/ColorSetCandy.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Color/ColorSmooth/ColorSmooth.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Color/ColorSmooth/ColorSmooth.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Color/ColorSmoothLoop/ColorSmoothLoop.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Color/ColorSmoothLoop/ColorSmoothLoop.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Color/ColorSmoothShifted/ColorSmoothShifted.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Color/ColorSmoothShifted/ColorSmoothShifted.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Color/ColorTest/ColorTest.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Color/ColorUtils.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Color/ColorXaoS/ColorXaoS.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Color/ColorXaoS/ColorXaoS.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Color/library/ColorLibrary.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Color/library/ColorLibrary.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/Convergence.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/Convergence.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/julia/DP_x86_BS/DP_x86_BS.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/julia/DP_x86_BS/DP_x86_BS.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/julia/DP_x86_J10/DP_x86_J10.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/julia/DP_x86_J10/DP_x86_J10.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/julia/DP_x86_J2/DP_x86_J2.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/julia/DP_x86_J2/DP_x86_J2.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/julia/DP_x86_J3/DP_x86_J3.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/julia/DP_x86_J3/DP_x86_J3.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/julia/DP_x86_J4/DP_x86_J4.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/julia/DP_x86_J4/DP_x86_J4.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/julia/DP_x86_J5/DP_x86_J5.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/julia/DP_x86_J5/DP_x86_J5.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/julia/DP_x86_J6/DP_x86_J6.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/julia/DP_x86_J6/DP_x86_J6.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/julia/DP_x86_J7/DP_x86_J7.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/julia/DP_x86_J7/DP_x86_J7.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/julia/DP_x86_J8/DP_x86_J8.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/julia/DP_x86_J8/DP_x86_J8.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/julia/DP_x86_J9/DP_x86_J9.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/julia/DP_x86_J9/DP_x86_J9.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/julia/simple/avx512/mono-julia/JU_SP_AVX512.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/julia/simple/avx512/mono-julia/JU_SP_AVX512.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/julia/simple/avx512/multi-julia/JU_SP_AVX512_OMP.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/julia/simple/avx512/multi-julia/JU_SP_AVX512_OMP.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/julia/simple/x86/julia-mono/JU_SP_x86.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/julia/simple/x86/julia-mono/JU_SP_x86.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/library/ConvergenceLibrary.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/library/ConvergenceLibrary.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/double/avx2/mono/normal/DP_AVX2.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/double/avx2/mono/normal/DP_AVX2.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/double/avx2/mono/unroll_x2/DP_AVX2_u2.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/double/avx2/mono/unroll_x2/DP_AVX2_u2.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/double/avx2/mono/unroll_x4/DP_AVX2_u4.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/double/avx2/mono/unroll_x4/DP_AVX2_u4.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/double/avx2/multi/normal/DP_AVX2_OMP.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/double/avx2/multi/normal/DP_AVX2_OMP.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/double/avx2/multi/unroll_x2/DP_AVX2_OMP_u2.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/double/avx2/multi/unroll_x2/DP_AVX2_OMP_u2.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/double/avx2/multi/unroll_x4/DP_AVX2_OMP_u4.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/double/avx2/multi/unroll_x4/DP_AVX2_OMP_u4.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/double/avx512/mono/DP_AVX512.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/double/avx512/mono/DP_AVX512.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/double/avx512/multi/DP_AVX512_OMP.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/double/avx512/multi/DP_AVX512_OMP.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/double/neon/mono/DP_NEON.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/double/neon/mono/DP_NEON.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/double/neon/multi/DP_NEON_OMP.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/double/neon/multi/DP_NEON_OMP.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/double/sse4/mono/DP_SSE4.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/double/sse4/mono/DP_SSE4.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/double/sse4/multi/DP_SSE4_OMP.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/double/sse4/multi/DP_SSE4_OMP.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/double/x86/mono/DP_x86.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/double/x86/mono/DP_x86.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/double/x86/multi/DP_x86_OMP.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/double/x86/multi/DP_x86_OMP.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/fixed/Convergence_fp_x86_new_fractal_wow_amazing.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/fixed/fixed_point.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/fixed/readme.md",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/fixed/sse4/Convergence_fp_x86_omp_SSE2.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/fixed/x86/mono/Convergence_fp_x86.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/fixed/x86/mono/FP_18b_x86.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/fixed/x86/mono/FP_Q16_11_x86.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/fixed/x86/mono/FP_Q16_11_x86.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/fixed/x86/mono/FP_Q18_14_x86.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/fixed/x86/mono/FP_Q18_14_x86.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/fixed/x86/mono/FP_Q32_27_x86.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/fixed/x86/mono/FP_Q32_27_x86.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/fixed/x86/multi/Convergence_fp_x86_omp.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/quad/x86/mono/QP_x86.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/quad/x86/mono/QP_x86.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/quad/x86/multi/QP_x86_OMP.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/quad/x86/multi/QP_x86_OMP.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/simple/FPGA/mono/SP_FPGA.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/simple/FPGA/mono/SP_FPGA.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/simple/avx2/mono/SP_AVX2.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/simple/avx2/mono/SP_AVX2.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/simple/avx2/mono/SP_AVX2_u2.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/simple/avx2/mono/SP_AVX2_u2.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/simple/avx2/multi/SP_AVX2_OMP.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/simple/avx2/multi/SP_AVX2_OMP.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/simple/avx2/multi/SP_AVX2_OMP_u2.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/simple/avx2/multi/SP_AVX2_OMP_u2.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/simple/avx512/mono/SP_AVX512.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/simple/avx512/mono/SP_AVX512.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/simple/avx512/multi/SP_AVX512_OMP.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/simple/avx512/multi/SP_AVX512_OMP.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/simple/neon/mono/SP_NEON.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/simple/neon/mono/SP_NEON.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/simple/neon/multi/SP_NEON_OMP.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/simple/neon/multi/SP_NEON_OMP.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/simple/sse4/mono/SP_SSE4.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/simple/sse4/mono/SP_SSE4.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/simple/sse4/mono/SP_SSE4_vc.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/simple/sse4/mono/SP_SSE4_vc.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/simple/sse4/multi/SP_SSE4_OMP.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/simple/sse4/multi/SP_SSE4_OMP.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/simple/sse4/multi/SP_SSE4_OMP_vc.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/simple/sse4/multi/SP_SSE4_OMP_vc.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/simple/x86/mono/SP_x86.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/simple/x86/mono/SP_x86.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/mandelbrot/simple/x86/multi/SP_x86_OMP.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/mandelbrot/simple/x86/multi/SP_x86_OMP.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/others/CUDA/CUDA.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/others/CUDA/CUDA.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/others/DP_x86_M/DP_x86_M.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/others/DP_x86_M/DP_x86_M.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/others/DP_x86_Mme/DP_x86_Mme.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/others/DP_x86_Mme/DP_x86_Mme.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/others/DP_x86_Mr/DP_x86_Mr.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/others/DP_x86_Mr/DP_x86_Mr.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/others/DP_x86_N/DP_x86_N.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/others/DP_x86_N/DP_x86_N.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Convergence/others/DP_x86_XXX/DP_x86_XXX.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Convergence/others/DP_x86_XXX/DP_x86_XXX.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Mandelbrot.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Mandelbrot.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Utils/FileHandler.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Utils/FileHandler.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Utils/Settings.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Utils/Settings.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Utils/StringUtils.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Utils/StringUtils.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Utils/Utils.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Utils/Utils.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "src/kernel.cu",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/kernel.cuh",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/LICENSE",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/README.md",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/changelog.txt",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/instrset.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/vector_convert.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/vectorclass.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/vectorf128.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/vectorf256.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/vectorf256e.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/vectorf512.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/vectorf512e.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/vectori128.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/vectori256.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/vectori256e.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/vectori512.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/vectori512e.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/vectori512s.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/vectori512se.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/vectormath_common.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/vectormath_exp.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/vectormath_hyp.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/vectormath_lib.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/vectclass/vectormath_trig.h",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

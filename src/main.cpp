@@ -15,12 +15,17 @@
 #include "Utils/StringUtils.hpp"
 #include <getopt.h>
 
+#include <omp.h>
+
 
 
 int main(int argc, char* argv[]) {
 
     int32_t width = 1200;
     int32_t height = 800;
+
+    omp_set_num_threads(8);
+
 
     // Apply parameters :
     long double offsetX = -0.70000000000000000; // and move around
@@ -30,9 +35,7 @@ int main(int argc, char* argv[]) {
     int32_t iterations = 256;
     long double wheelZoomFactor = 0.05;
 
-    printf("(II) Dimension de la fenetre (%d, %d)\n", width, height);
-
-//#define _bench_
+#define _bench_
 #ifdef  _bench_
     width   = 3840;
     height  = 2160;
@@ -40,6 +43,8 @@ int main(int argc, char* argv[]) {
     offsetY = -0.28415288527686088;
     zoom    = +0.00000775942804870;
 #endif
+
+    printf("(II) Dimension de la fenetre (%d, %d)\n", width, height);
 
     Mandelbrot mb( width, height, iterations );
 
@@ -59,7 +64,7 @@ int main(int argc, char* argv[]) {
     sf::Sprite sprite;
 
     bool stateChanged    = true; // track whether the image needs to be regenerated
-    bool showElapsedTime = false; // track whether the image needs to be regenerated
+    bool showElapsedTime = true; // track whether the image needs to be regenerated
 //    sf::Clock clicTime;
 
     std::vector<unsigned int> execTimes;

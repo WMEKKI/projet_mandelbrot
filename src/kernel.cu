@@ -141,6 +141,7 @@ __global__ void kernel_compute_cuda_d2_wp(double zoom, double offsetX, double of
 
       z1.y = 2.0f * z1.x * z1.y + z.y;
       z1.x = z2.x - z2.y + z.x;
+      
       if ( (z2.x + z2.y) > 4.0f) {
         device_value[j*IMAGE_WIDTH + i] = counter;
         break;
@@ -211,4 +212,52 @@ void compute_cuda_s (int nthreads, float zoom, float offsetX, float offsetY, uns
   kernel_compute_cuda_s<<<DimGrid, DimBlock>>>( zoom, offsetX, offsetY, max_iters,
     IMAGE_WIDTH, IMAGE_HEIGHT, device_value);
 
+}
+
+/******************************/
+/*    CUDA SIMPLE FLOAT       */
+/******************************/
+__device__ unsigned int process_cuda_f(const float startReal, const float startImag, unsigned int max_iters) {
+    float zReal = startReal;
+    float zImag = startImag;
+
+    for (unsigned int counter = 0; counter < max_iters; counter++) {
+        float r2 = zReal * zReal;
+        float i2 = zImag * zImag;
+        zImag = 2.0f * zReal * zImag + startImag;
+        zReal = r2 - i2 + startReal;
+        if ( (r2 + i2) > 4.0f) {
+            return counter;
+        }
+    }
+    return max_iters - 1;
+}
+
+__global__ void kernel_compute_cuda_f(float zoom, float offsetX, float offsetY, unsigned int max_iters,
+  int IMAGE_WIDTH, int IMAGE_HEIGHT, float *device_value) {
+
+	int x = blockIdx.x * blockDim.x + threadIdx.x;
+  int y = blockIdx.y * blockDim.y + threadIdx.y;
+
+  float imag;
+  float real;
+
+  if ( (x<IMAGE_WIDTH) && (y<IMAGE_HEIGHT) ) {
+    imag = offsetY - IMAGE_HEIGHT / 2.0f * zoom + (y * zoom);
+    real = (offsetX - IMAGE_WIDTH / 2.0f * zoom)+((x)*zoom);
+    device_value[y*IMAGE_WIDTH +x] = process_cuda_s(real, imag, max_iters);
+	}
+}
+
+void compute_cuda_f(int nthreads, float zoom, float offsetX, float offsetY, unsigned int max_iters,
+  int IMAGE_WIDTH, int IMAGE_HEIGHT, float *device_value) {
+
+  int numBlocksX = ( IMAGE_WIDTH + ( nthreads - 1 ) ) / nthreads;
+  int numBlocksY = ( IMAGE_HEIGHT + ( nthreads - 1 ) ) / nthreads;
+
+  dim3 DimBlock(nthreads, nthreads, 1);
+  dim3 DimGrid(numBlocksX, numBlocksY);
+
+  kernel_compute_cuda_f<<<DimGrid, DimBlock>>>( zoom, offsetX, offsetY, max_iters,
+    IMAGE_WIDTH, IMAGE_HEIGHT, device_value);
 }

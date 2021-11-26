@@ -1,0 +1,377 @@
+[
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Color/ColorGreyScale/ColorGreyScale.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorGreyScale/ColorGreyScale.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorGreyScale/ColorGreyScale.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Color/ColorHSV/ColorHSV.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorHSV/ColorHSV.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorHSV/ColorHSV.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Color/ColorHSVLoop/ColorHSVLoop.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorHSVLoop/ColorHSVLoop.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorHSVLoop/ColorHSVLoop.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Color/ColorHSVShifted/ColorHSVShifted.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorHSVShifted/ColorHSVShifted.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorHSVShifted/ColorHSVShifted.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Color/ColorLSD/ColorLSD.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorLSD/ColorLSD.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorLSD/ColorLSD.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Color/ColorLerp/ColorLerpBlueRed.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorLerp/ColorLerpBlueRed.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorLerp/ColorLerpBlueRed.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Color/ColorMap.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorMap.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorMap.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Color/ColorSetCandy/ColorSetCandy.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorSetCandy/ColorSetCandy.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorSetCandy/ColorSetCandy.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Color/ColorSmooth/ColorSmooth.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorSmooth/ColorSmooth.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorSmooth/ColorSmooth.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Color/ColorSmoothLoop/ColorSmoothLoop.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorSmoothLoop/ColorSmoothLoop.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorSmoothLoop/ColorSmoothLoop.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Color/ColorSmoothShifted/ColorSmoothShifted.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorSmoothShifted/ColorSmoothShifted.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorSmoothShifted/ColorSmoothShifted.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Color/ColorXaoS/ColorXaoS.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorXaoS/ColorXaoS.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/ColorXaoS/ColorXaoS.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Color/library/ColorLibrary.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/library/ColorLibrary.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Color/library/ColorLibrary.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/Convergence.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/Convergence.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/Convergence.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/julia/DP_x86_BS/DP_x86_BS.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/DP_x86_BS/DP_x86_BS.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/DP_x86_BS/DP_x86_BS.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/julia/DP_x86_J10/DP_x86_J10.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/DP_x86_J10/DP_x86_J10.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/DP_x86_J10/DP_x86_J10.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/julia/DP_x86_J2/DP_x86_J2.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/DP_x86_J2/DP_x86_J2.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/DP_x86_J2/DP_x86_J2.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/julia/DP_x86_J3/DP_x86_J3.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/DP_x86_J3/DP_x86_J3.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/DP_x86_J3/DP_x86_J3.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/julia/DP_x86_J4/DP_x86_J4.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/DP_x86_J4/DP_x86_J4.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/DP_x86_J4/DP_x86_J4.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/julia/DP_x86_J5/DP_x86_J5.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/DP_x86_J5/DP_x86_J5.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/DP_x86_J5/DP_x86_J5.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/julia/DP_x86_J6/DP_x86_J6.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/DP_x86_J6/DP_x86_J6.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/DP_x86_J6/DP_x86_J6.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/julia/DP_x86_J7/DP_x86_J7.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/DP_x86_J7/DP_x86_J7.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/DP_x86_J7/DP_x86_J7.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/julia/DP_x86_J8/DP_x86_J8.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/DP_x86_J8/DP_x86_J8.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/DP_x86_J8/DP_x86_J8.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/julia/DP_x86_J9/DP_x86_J9.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/DP_x86_J9/DP_x86_J9.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/DP_x86_J9/DP_x86_J9.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/julia/simple/avx512/mono-julia/JU_SP_AVX512.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/simple/avx512/mono-julia/JU_SP_AVX512.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/simple/avx512/mono-julia/JU_SP_AVX512.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/julia/simple/avx512/multi-julia/JU_SP_AVX512_OMP.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/simple/avx512/multi-julia/JU_SP_AVX512_OMP.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/simple/avx512/multi-julia/JU_SP_AVX512_OMP.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/julia/simple/x86/julia-mono/JU_SP_x86.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/simple/x86/julia-mono/JU_SP_x86.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/julia/simple/x86/julia-mono/JU_SP_x86.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/library/ConvergenceLibrary.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/library/ConvergenceLibrary.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/library/ConvergenceLibrary.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/avx2/mono/normal/DP_AVX2.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/avx2/mono/normal/DP_AVX2.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/avx2/mono/normal/DP_AVX2.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/avx2/mono/unroll_x2/DP_AVX2_u2.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/avx2/mono/unroll_x2/DP_AVX2_u2.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/avx2/mono/unroll_x2/DP_AVX2_u2.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/avx2/mono/unroll_x4/DP_AVX2_u4.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/avx2/mono/unroll_x4/DP_AVX2_u4.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/avx2/mono/unroll_x4/DP_AVX2_u4.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/avx2/multi/normal/DP_AVX2_OMP.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/avx2/multi/normal/DP_AVX2_OMP.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/avx2/multi/normal/DP_AVX2_OMP.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/avx2/multi/unroll_x2/DP_AVX2_OMP_u2.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/avx2/multi/unroll_x2/DP_AVX2_OMP_u2.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/avx2/multi/unroll_x2/DP_AVX2_OMP_u2.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/avx2/multi/unroll_x4/DP_AVX2_OMP_u4.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/avx2/multi/unroll_x4/DP_AVX2_OMP_u4.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/avx2/multi/unroll_x4/DP_AVX2_OMP_u4.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/avx512/mono/DP_AVX512.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/avx512/mono/DP_AVX512.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/avx512/mono/DP_AVX512.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/avx512/multi/DP_AVX512_OMP.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/avx512/multi/DP_AVX512_OMP.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/avx512/multi/DP_AVX512_OMP.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/neon/mono/DP_NEON.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/neon/mono/DP_NEON.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/neon/mono/DP_NEON.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/neon/multi/DP_NEON_OMP.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/neon/multi/DP_NEON_OMP.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/neon/multi/DP_NEON_OMP.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/sse4/mono/DP_SSE4.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/sse4/mono/DP_SSE4.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/sse4/mono/DP_SSE4.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/sse4/multi/DP_SSE4_OMP.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/sse4/multi/DP_SSE4_OMP.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/sse4/multi/DP_SSE4_OMP.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/x86/mono/DP_x86.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/x86/mono/DP_x86.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/x86/mono/DP_x86.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/double/x86/multi/DP_x86_OMP.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/x86/multi/DP_x86_OMP.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/double/x86/multi/DP_x86_OMP.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/fixed/x86/mono/FP_Q16_11_x86.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/fixed/x86/mono/FP_Q16_11_x86.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/fixed/x86/mono/FP_Q16_11_x86.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/fixed/x86/mono/FP_Q18_14_x86.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/fixed/x86/mono/FP_Q18_14_x86.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/fixed/x86/mono/FP_Q18_14_x86.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/fixed/x86/mono/FP_Q32_27_x86.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/fixed/x86/mono/FP_Q32_27_x86.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/fixed/x86/mono/FP_Q32_27_x86.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/quad/x86/mono/QP_x86.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/quad/x86/mono/QP_x86.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/quad/x86/mono/QP_x86.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/quad/x86/multi/QP_x86_OMP.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/quad/x86/multi/QP_x86_OMP.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/quad/x86/multi/QP_x86_OMP.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/FPGA/mono/SP_FPGA.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/FPGA/mono/SP_FPGA.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/FPGA/mono/SP_FPGA.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/avx2/mono/SP_AVX2.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/avx2/mono/SP_AVX2.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/avx2/mono/SP_AVX2.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/avx2/mono/SP_AVX2_u2.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/avx2/mono/SP_AVX2_u2.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/avx2/mono/SP_AVX2_u2.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/avx2/multi/SP_AVX2_OMP.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/avx2/multi/SP_AVX2_OMP.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/avx2/multi/SP_AVX2_OMP.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/avx2/multi/SP_AVX2_OMP_u2.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/avx2/multi/SP_AVX2_OMP_u2.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/avx2/multi/SP_AVX2_OMP_u2.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/avx512/mono/SP_AVX512.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/avx512/mono/SP_AVX512.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/avx512/mono/SP_AVX512.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/avx512/multi/SP_AVX512_OMP.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/avx512/multi/SP_AVX512_OMP.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/avx512/multi/SP_AVX512_OMP.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/neon/mono/SP_NEON.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/neon/mono/SP_NEON.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/neon/mono/SP_NEON.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/neon/multi/SP_NEON_OMP.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/neon/multi/SP_NEON_OMP.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/neon/multi/SP_NEON_OMP.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/sse4/mono/SP_SSE4.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/sse4/mono/SP_SSE4.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/sse4/mono/SP_SSE4.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/sse4/mono/SP_SSE4_vc.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/sse4/mono/SP_SSE4_vc.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/sse4/mono/SP_SSE4_vc.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/sse4/multi/SP_SSE4_OMP.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/sse4/multi/SP_SSE4_OMP.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/sse4/multi/SP_SSE4_OMP.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/sse4/multi/SP_SSE4_OMP_vc.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/sse4/multi/SP_SSE4_OMP_vc.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/sse4/multi/SP_SSE4_OMP_vc.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/x86/mono/SP_x86.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/x86/mono/SP_x86.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/x86/mono/SP_x86.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/mandelbrot/simple/x86/multi/SP_x86_OMP.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/x86/multi/SP_x86_OMP.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/mandelbrot/simple/x86/multi/SP_x86_OMP.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/others/CUDA/CUDA.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/others/CUDA/CUDA.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/others/CUDA/CUDA.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/others/DP_x86_M/DP_x86_M.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/others/DP_x86_M/DP_x86_M.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/others/DP_x86_M/DP_x86_M.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/others/DP_x86_Mme/DP_x86_Mme.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/others/DP_x86_Mme/DP_x86_Mme.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/others/DP_x86_Mme/DP_x86_Mme.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/others/DP_x86_Mr/DP_x86_Mr.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/others/DP_x86_Mr/DP_x86_Mr.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/others/DP_x86_Mr/DP_x86_Mr.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/others/DP_x86_N/DP_x86_N.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/others/DP_x86_N/DP_x86_N.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/others/DP_x86_N/DP_x86_N.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Convergence/others/DP_x86_XXX/DP_x86_XXX.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/others/DP_x86_XXX/DP_x86_XXX.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Convergence/others/DP_x86_XXX/DP_x86_XXX.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Mandelbrot.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Mandelbrot.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Mandelbrot.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Utils/FileHandler.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Utils/FileHandler.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Utils/FileHandler.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Utils/Settings.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Utils/Settings.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Utils/Settings.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Utils/StringUtils.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Utils/StringUtils.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Utils/StringUtils.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/Utils/Utils.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Utils/Utils.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/Utils/Utils.cpp"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/nvcc   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"  -O3 -DNDEBUG   -x cu -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/kernel.cu\" -o CMakeFiles/dec-obj.dir/src/kernel.cu.o",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/kernel.cu"
+},
+{
+  "directory": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build",
+  "command": "/usr/bin/c++   -I\"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src\"   -Ofast -g0 -Wall -march=native -mtune=native -fopenmp -I/usr/local/include -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/dec-obj.dir/src/main.cpp.o -c \"/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/main.cpp\"",
+  "file": "/home/wassim/Elec3/Projet avancé/projet_mandelbrot/src/main.cpp"
+}
+]

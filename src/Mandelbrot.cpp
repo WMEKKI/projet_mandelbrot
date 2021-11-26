@@ -38,7 +38,7 @@ void Mandelbrot::allocRessources( ){
 //    if( c == nullptr )
 //        c = converge.get( params->ConvergenceType() );
 //    else
-    c = converge.get();                         // new CUDA  (nullptr, 255) ;                         
+    c = converge.get();          //SP_x86_OMP (nullptr, 255) ;    //new CUDA  (nullptr, 255) ;     //     n  ;                        
     c->setIters( iters  );
     c->setColor( colors );
 }
@@ -128,7 +128,7 @@ void Mandelbrot::RunBenchmark(const long double zoom, const long double offsetX,
         Convergence* cc = converge.list.at( m );
         auto start = chrono::steady_clock::now();
 
-        const int32_t nTests = 2;
+        const int32_t nTests = 1;
         for( int32_t loop = 0; loop < nTests; loop += 1 )
         {
             cc->updateImage(zoom, offsetX, offsetY, f_width, f_height, iter_fcount);
@@ -162,13 +162,13 @@ void Mandelbrot::updateImage(const long double zoom, const long double offsetX, 
     //  Affichage du marqueur central si l'utilisateur l'a souhaité
     //
 
-    if ( false /*params->isCentralDotEnabled*/)
-    {
+   /* if ( false /*params->isCentralDotEnabled)*/
+    /*{
         sf::Color white(255, 255, 255);
         image.setPixel(f_width/2-1, f_height/2,   white);
         image.setPixel(f_width/2+1, f_height/2,   white);
         image.setPixel(f_width/2,   f_height/2,   white);
         image.setPixel(f_width/2,   f_height/2-1, white);
         image.setPixel(f_width/2,   f_height/2+1, white);
-    }
+    }*/
 }

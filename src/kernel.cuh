@@ -13,4 +13,7 @@ void compute_cuda_d2_wp(int nthreads, double zoom, double offsetX, double offset
 void compute_cuda_s(int nthreads, float zoom, float offsetX, float offsetY, unsigned int max_iters,
   int IMAGE_WIDTH, int IMAGE_HEIGHT, unsigned short *device_value);
 
+void compute_cuda_f(int nthreads, float zoom, float offsetX, float offsetY, unsigned int max_iters,
+  int IMAGE_WIDTH, int IMAGE_HEIGHT, float *device_value);
+
 #endif

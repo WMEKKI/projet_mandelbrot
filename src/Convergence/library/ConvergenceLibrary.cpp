@@ -79,17 +79,11 @@
 ConvergenceLibrary::ConvergenceLibrary()
 {
 
-    //
-    //
-    //
+    
+    list.push_back( new CUDA           (nullptr, 255) );
 
-    
-    //list.push_back( new CUDA           (nullptr, 255) );
-    
     list.push_back( new SP_x86         (nullptr, 255) );
     list.push_back( new SP_x86_OMP     (nullptr, 255) );
-
-    list.push_back( new CUDA           (nullptr, 255) );
 
     list.push_back( new SP_SSE4        (nullptr, 255) );
     list.push_back( new SP_SSE4_vc     (nullptr, 255) );
@@ -97,8 +91,8 @@ ConvergenceLibrary::ConvergenceLibrary()
     list.push_back( new SP_SSE4_OMP    (nullptr, 255) );
     list.push_back( new SP_SSE4_OMP_vc (nullptr, 255) );
 
-    list.push_back( new SP_NEON        (nullptr, 255) );
-    list.push_back( new SP_NEON_OMP    (nullptr, 255) );
+    //list.push_back( new SP_NEON        (nullptr, 255) );
+    //list.push_back( new SP_NEON_OMP    (nullptr, 255) );
 
     list.push_back( new SP_AVX2        (nullptr, 255) );
     list.push_back( new SP_AVX2_u2     (nullptr, 255) );
@@ -200,7 +194,7 @@ ConvergenceLibrary::ConvergenceLibrary()
         indx[ list[i]->name() ] =      i ;
     }
 
-    counter = 1;
+    counter = 0; // je sais pas 0,1...
 
 }
 

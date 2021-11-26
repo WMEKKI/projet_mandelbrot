@@ -1,13 +1,17 @@
 #ifndef _CUDA_
 #define _CUDA_
 
+#include "cuda_runtime.h"
 #include "Convergence/Convergence.hpp"
 
 class CUDA : public Convergence {
 private:
+
     float* device_ptr;
+
+    cudaError_t cudaStatus;    
+
 public:
-    CUDA();
 
     CUDA(ColorMap* _colors, int _max_iters);
 

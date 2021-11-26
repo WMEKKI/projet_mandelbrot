@@ -48,7 +48,8 @@ void SP_x86_OMP::updateImage(const long double _zoom, const long double _offsetX
     const float f_zoom    = (float)_zoom;
     const float f_offsetX = (float)_offsetX;
     const float f_offsetY = (float)_offsetY;
-
+     
+    
 #pragma omp parallel // on declare une section parallel
     {
 #pragma omp for // on fait du multicoeur

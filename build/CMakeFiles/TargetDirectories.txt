@@ -1,0 +1,4 @@
+/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build/CMakeFiles/rebuild_cache.dir
+/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build/CMakeFiles/edit_cache.dir
+/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build/CMakeFiles/mandelbrot.dir
+/home/wassim/Elec3/Projet avancé/projet_mandelbrot/build/CMakeFiles/dec-obj.dir
